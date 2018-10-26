@@ -1,0 +1,42 @@
+
+        .name {
+            color: #777777;
+            font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+            font-size: 19px;
+        }
+
+        #rawtext {
+            line-height: 30px;
+            color: #777777;
+            font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+        }
+        .inputfield {
+            width: 100%;
+            height: 30px;
+            margin-top: 10px;
+            margin-bottom: 20px;
+            line-height: initial;
+            font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+            font-size: 15px;
+            color: inherit;
+            padding-left: 10px;
+        }
+        .inputmessage {
+            height: 196px;
+            padding-top: 10px;
+        }
+        .submitbutton {
+            background-color: #4aaaa5;
+            height: 41px;
+            width: 116px;
+            border: none;
+            text-decoration: none;
+            font: inherit;
+            color: #ffffff;
+            border: none;
+            padding: 0;
+            cursor: pointer;
+            outline: inherit;
+            
+
+        }
